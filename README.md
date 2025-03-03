@@ -1,6 +1,7 @@
 # Diabetes Prediction Using Decision Tree Regressor
 ## Introduction
-Welcomr to Abdallah's Decision Tree project
+Welcome to Abdallah's Decision Tree project
+
 
 ## Description
 This project aims to predict diabetes using a Decision Tree Regressor. The model is trained on the diabetes dataset provided by the `sklearn` library. The project includes data loading, preparation, model training, evaluation, and visualization of the decision tree. The motivation behind this project is to provide insights into diabetes prediction and to demonstrate the effectiveness of decision tree algorithms in regression tasks.
